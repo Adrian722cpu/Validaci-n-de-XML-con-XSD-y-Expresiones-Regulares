@@ -1,1 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_gamers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="usuarios.xsd">
 
+    <usuario>
+        <nombreUsuario>cloudStrife7</nombreUsuario>
+        <contrasena>BusterSword_97!</contrasena>
+        <email>exsoldier@midgar.com</email>
+        <telefono>600111222</telefono>
+        <codigoPostal>08001</codigoPostal>
+        <rango>Platino</rango>
+    </usuario>
+    <usuario>
+        <nombreUsuario>tifaLockhart</nombreUsuario>
+        <contrasena>SeventhHeaven_7!</contrasena>
+        <email>tifa@avalanche.org</email>
+        <telefono>600333444</telefono>
+        <codigoPostal>08002</codigoPostal>
+        <rango>Grandmaster</rango>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>leonKennedy</nombreUsuario>
+        <contrasena>RaccoonCity_98!</contrasena>
+        <email>l.kennedy@rpd.gov</email>
+        <telefono>611222333</telefono>
+        <codigoPostal>28005</codigoPostal>
+        <rango>Oro</rango>
+    </usuario>
+    <usuario>
+        <nombreUsuario>jillValentine</nombreUsuario>
+        <contrasena>MasterOfUnlocking_1!</contrasena>
+        <email>jill.stars@bsaa.org</email>
+        <telefono>622333444</telefono>
+        <codigoPostal>28006</codigoPostal>
+        <rango>Diamante</rango>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>arthasLich</nombreUsuario>
+        <contrasena>FrostMourne_01!</contrasena>
+        <email>king@icecrown.com</email>
+        <telefono>633444555</telefono>
+        <codigoPostal>41001</codigoPostal>
+        <rango>Grandmaster</rango>
+    </usuario>
+    <usuario>
+        <nombreUsuario>sylvanasWind</nombreUsuario>
+        <contrasena>ForTheHorde_2024!</contrasena>
+        <email>banshee@undercity.com</email>
+        <telefono>644555666</telefono>
+        <codigoPostal>41002</codigoPostal>
+        <rango>Diamante</rango>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>ashKetchum</nombreUsuario>
+        <contrasena>Pikachu_25th!</contrasena>
+        <email>ash@pallettown.com</email>
+        <telefono>655666777</telefono>
+        <codigoPostal>50001</codigoPostal>
+        <rango>Bronce</rango>
+    </usuario>
+    <usuario>
+        <nombreUsuario>redChampion</nombreUsuario>
+        <contrasena>Silence_MtSilver1!</contrasena>
+        <email>red@kanto.jp</email>
+        <telefono>666777888</telefono>
+        <codigoPostal>50002</codigoPostal>
+        <rango>Platino</rango>
+    </usuario>
+
+    <usuario>
+        <nombreUsuario>jinxPowder</nombreUsuario>
+        <contrasena>GetJinxed_2026!</contrasena>
+        <email>jinx@zaun.com</email>
+        <telefono>677888999</telefono>
+        <codigoPostal>11001</codigoPostal>
+        <rango>Plata</rango>
+    </usuario>
+    <usuario>
+        <nombreUsuario>yasuoMain01</nombreUsuario>
+        <contrasena>Hasagi_0101!</contrasena>
+        <email>yasuo@ionia.com</email>
+        <telefono>688999000</telefono>
+        <codigoPostal>11002</codigoPostal>
+        <rango>Bronce</rango>
+    </usuario>
+
+</lista_gamers>
